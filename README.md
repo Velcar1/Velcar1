@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola!  Soy Velcar, Ingeniero en Telecomunicaciones 
 
-<!--
-**Velcar1/Velcar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Habilidades
 
-Here are some ideas to get you started:
+* **Backend:** Go
+* **Frontend:** Vue.js
+* **Cloud:** AWS
+* **Contenedorización:** Docker
+* **Sistemas Operativos:** Linux
+* **Redes:** Experto en redes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certificaciones
+
+* AWS Cloud Practitioner Certified
+
+
+
