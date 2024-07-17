@@ -1,4 +1,4 @@
-# ¡Hola!  Soy Velcar, Ingeniero en Telecomunicaciones 
+# ¡Hola!  Soy Velcar!
 
 ## Habilidades
 
